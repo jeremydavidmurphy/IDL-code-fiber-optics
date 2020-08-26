@@ -4,7 +4,7 @@ This directory includes several IDL routines I wrote to characterize various pro
 
 There are a number of routines here, many of which are simply one-off pieces of code to perform specific tasks, often some type of visual comparison of data.
 
-The two primary properties of the fiber optics I was testing was transmission and what's called 'focal ratio degradation' or FRD. Therefore, you'll see a lot of mention of 'trans' and 'FRD' in the names of the routines and the comments.
+The two primary properties of the fiber optics I was testing transmission and what's called 'focal ratio degradation' or FRD, both as a function of wavelength. Therefore, you'll see a lot of mention of 'trans' and 'FRD' in the names of the routines and the comments.
 
 FRD is the affect where light sent into a fiber at a given focal ratio has a tendency to have a higher focal ratio when it leaves the fiber. This 'degradation' is important for astronomy as fiber optics are commonly used to feed instruments (often spectrographs) and characterizing how your fibers increase the focal ratio is critical for designing the instrument's optics.
 
